@@ -1,0 +1,12 @@
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\bin\Debug\Lexer.exe.config
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\obj\Debug\Lexer.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\bin\Debug\Lexer.exe
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\bin\Debug\Lexer.pdb
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\obj\Debug\Lexer.exe
+C:\Documents\Visual Studio 2013\Projects\Lexer\Lexer\obj\Debug\Lexer.pdb
+J:\Lexer\Lexer\bin\Debug\Lexer.exe.config
+J:\Lexer\Lexer\obj\Debug\Lexer.exe
+J:\Lexer\Lexer\obj\Debug\Lexer.pdb
+J:\Lexer\Lexer\bin\Debug\Lexer.exe
+J:\Lexer\Lexer\bin\Debug\Lexer.pdb
+J:\Lexer\Lexer\obj\Debug\Lexer.csprojResolveAssemblyReference.cache
